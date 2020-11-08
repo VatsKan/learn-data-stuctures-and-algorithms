@@ -1,0 +1,22 @@
+{
+  "name": "learn-data-stuctures-and-algorithms",
+  "version": "1.0.0",
+  "description": "one day workshop on data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VatsKan/learn-data-stuctures-and-algorithms.git"
+  },
+  "author": "Vatsal Kanoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VatsKan/learn-data-stuctures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/VatsKan/learn-data-stuctures-and-algorithms#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
